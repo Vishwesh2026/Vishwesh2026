@@ -30,8 +30,8 @@
 </a>
   
 <h3 align="left">LeetCode Statistics:</h3>
-<a href="https://leetcode.com/u/Vishwesh2026/">
-    <img src="https://leetcard.jacoblin.cool/Vishwesh2026?ext=contest" alt="Vishwesh's LeetCode Stats">
+<a href="https://leetcode.com/u/Healthcliff/">
+    <img src="https://leetcard.jacoblin.cool/Healthcliff?ext=contest" alt="Vishwesh's LeetCode Stats">
 </a>
 
 </div>
