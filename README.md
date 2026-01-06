@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Comptia Security+**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vishwesh2026/project_IMS](https://github.com/Vishwesh2026/project_IMS)
+
 
 - 💬 Ask me about **C++,Java**
 
